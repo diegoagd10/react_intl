@@ -1,0 +1,12 @@
+{
+	"en": {
+		"body": "My body text",
+		"index.title": "Home",
+		"about.title": "About"
+	},
+	"es": {
+		"body": "Mi texto en el body",
+		"index.title": "Inicio",
+		"about.title": "Acerca"
+	}
+}
